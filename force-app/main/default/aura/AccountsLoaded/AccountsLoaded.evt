@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION">
+    <aura:attribute name="accList" type="Account[]"/>
+</aura:event>
+
