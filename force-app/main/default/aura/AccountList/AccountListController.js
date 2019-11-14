@@ -25,7 +25,7 @@
                     'name': 'view_details'
                 }
             }
-        ];
+        ];.
         component.set('v.cols', cols);
         component.set('v.rows', event.getParam('accList'));
     },
